@@ -1,3 +1,3 @@
 # LeetCode
 code and notes of LeetCode
-sy_test
+sy_test_2
